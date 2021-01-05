@@ -3935,12 +3935,13 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x88524995b7850d5080695C9814665B00f85fF491",
-      "transactionHash": "0x3970eec486075f0f506db58cad9c5c4cc9ff9d5d7830ac79d1a3c13cc5ca14dc"
+      "address": "0x28EbB5D935683FEb7eC17fc45299dBbf01bcAB95",
+      "transactionHash": "0xa0b1a184b32503a3b5397364e24a7ab4197a745a7b8140d9ea05ba70fc362dcb"
     }
   },
   "schemaVersion": "3.1.0",
-  "updatedAt": "2021-01-05T18:51:00.740Z",
+  "updatedAt": "2021-01-05T18:52:44.170Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
